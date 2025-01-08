@@ -2,3 +2,7 @@
 	path = yascp_docs
 	url = https://github.com/tdkaliki/yascp.git
 	branch = yascp_docs/b15d8b8
+[submodule "yascp_docs2"]
+	path = yascp_docs2
+	url = https://github.com/tdkaliki/yascp.git
+	branch = yascp_docs
