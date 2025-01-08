@@ -2,3 +2,4 @@
 	path = yascp_docs
 	url = https://github.com/wtsi-hgi/yascp.git
 	branch = yascp_docs
+	tag = b15d8b8
