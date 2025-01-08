@@ -1,4 +1,4 @@
 [submodule "yascp_docs"]
 	path = yascp_docs
 	url = https://github.com/tdkaliki/yascp.git
-	branch = yascp_docs
+	branch = yascp_docs/b15d8b8
